@@ -55,8 +55,8 @@ This repository implements a rigorous quantitative pipeline for analyzing moving
 
 ```bash
 # Clone repository
-git clone https://github.com/shubh123a3/NIFTY50-Dual-MA-Momentum-Engine.git
-cd NIFTY50-Dual-MA-Momentum-Engine
+git clone [https://github.com/shubh123a3/NIFTY50-Dual-MA-Momentum-Engine.git](https://github.com/manavsarvaiya/SMA-Crossover-Efficacy-in-Indian-Markets.git)
+cd SMA-Crossover-Efficacy-in-Indian-Markets
 ```
 # Install dependencies
 ```

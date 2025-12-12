@@ -1,6 +1,6 @@
 # SMA Crossover Efficacy in Indian-Markets
 
-<img width="2500" height="1800" alt="nifty50_dual_ma_dashboard" src="https://github.com/user-attachments/assets/5e5c7009-33f0-4e2e-b4fd-1892b67a14ea" />
+<img width="2500" height="1800" alt="nifty50_dual_ma_dashboard" src="dual_sma_dash_board.png" />
 
 A comprehensive quantitative framework for backtesting and analyzing moving average strategies using 10 years of minute-level NIFTY 50 data. This systematic engine evaluates single and dual SMA crossover configurations with realistic transaction costs, providing deep statistical insights and professional visualizations for high-frequency trend following in Indian equity markets.
 
